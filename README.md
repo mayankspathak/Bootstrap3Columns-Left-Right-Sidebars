@@ -1,6 +1,6 @@
-# Bootstrap3Columns-Left-Right-Sidebars
+# Bootstrap three Columns template with Left and Right Sidebars
 
-Bootstrap Left Right Sidebars template
+##Bootstrap Left Right Sidebars template
 
 
 This Bootstrap template is written using Bootstrap 3.3.7 version.
